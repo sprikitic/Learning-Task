@@ -9,6 +9,7 @@
     <li><a href="index.php" target="_blank"> HOME </a></li>
     <li><a href="/LT2/Homepage.html" target= "_blank"> LEARNING TASK 2 </a> </li>
         <li><a href="/LT3/index.html" target= "_blank"> LEARNING TASK 3 </a> </li>
+    <li><a href="/CLEMT/index.html" target= "_blank"> CLEMIDTERM </a> </li>
   </ul>
   </body>
 </html>
