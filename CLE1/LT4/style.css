@@ -1,0 +1,30 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+#main{
+    width:50%;
+    height:800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#main #body h2{
+    text-align: center;
+    font-family: Rubik Glitch;
+    color:Gold;
+    font-size:35px;
+}
+#main #body h4{
+    text-align: center;
+    font-family: Rubik Glitch;
+    color:white;
+    font-size:20px;
+}
+#main #body p{
+    text-align: center;
+    font-family: Comic Sans Ms;
+    color: white;
+    font-size:25px;
+}
